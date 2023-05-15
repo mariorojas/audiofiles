@@ -47,7 +47,7 @@ intro = create_intro(
 # adding sound2
 podcast = intro + sound2
 
-# save changed
+# save changes
 file_name = 'podcast.mp3'
 podcast.export(file_name)
 
